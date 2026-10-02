@@ -21,3 +21,10 @@ We fix security problems in the latest release of each app. Updates are never
 installed automatically: our apps make no network connections of their own, so
 a fixed version reaches you only when you download it from
 <https://apps.oncut.gr> or the app's GitHub releases.
+
+## Checking a download
+
+Windows installers are signed by oncut (Authenticode). Every release also
+carries `SHA256SUMS` and its minisign signature `SHA256SUMS.minisig`; the
+public key and the steps are at <https://apps.oncut.gr/keys> (key id
+`3AA1B9E2CD1C2AE8`).
