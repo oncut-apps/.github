@@ -6,7 +6,7 @@ reports. The apps themselves are proprietary; their source code is private.
 
 | App | What it does | Runs on |
 | --- | --- | --- |
-| [**oncut KeyLang**](https://github.com/oncut-apps/keylang) | Warns you the moment you type on the wrong keyboard layout, and switches it with one click. Eight languages; nothing you type leaves your computer. | Windows, Linux |
+| [**KeyLang**](https://github.com/oncut-apps/keylang) | Warns you the moment you type on the wrong keyboard layout, and switches it with one click. Eight languages; nothing you type leaves your computer. | Windows, Linux |
 
 - Apps, purchases and downloads: <https://apps.oncut.gr>
 - Support: support@oncut.gr
