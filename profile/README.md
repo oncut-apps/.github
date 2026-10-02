@@ -1,7 +1,7 @@
 # oncut apps
 
 Software by [oncut](https://www.oncut.gr), a video production studio in Athens,
-Greece. This organisation publishes the releases of our apps and takes their bug
+Greece. This organization publishes the releases of our apps and takes their bug
 reports. The apps themselves are proprietary; their source code is private.
 
 | App | What it does | Runs on |
